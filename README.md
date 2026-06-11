@@ -6,7 +6,8 @@ An end-to-end credit risk grading pipeline built on public data sources. Ingests
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+<img width="2684" height="4249" alt="dashboard" src="https://github.com/user-attachments/assets/61af6e34-e647-4490-a0f8-9219dbc039f0" />
+
 
 ---
 
